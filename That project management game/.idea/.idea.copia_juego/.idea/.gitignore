@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.copia_juego.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\MIS DOCUMENTOS PPAL\Desktop\2021-1\requisitos\juego\copia_juego\.idea\.idea.copia_juego\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
